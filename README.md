@@ -7,6 +7,7 @@ You can choose to challange the computer!
 ---
 
 ## 🎯 Features  
+- Different Gamemode
 - Interactive 3x3 grid for player moves.  
 - Automatic detection of winners or ties.  
 - Easy-to-use reset button to restart the game.  
